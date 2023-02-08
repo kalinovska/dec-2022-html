@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecbc1469-e93b-46ac-9d72-751fad3a84c9" name="Changes" comment="2 homework">
-      <change afterPath="$PROJECT_DIR$/lesson2/part2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/part2/main2.css" afterDir="false" />
+    <list default="true" id="ecbc1469-e93b-46ac-9d72-751fad3a84c9" name="Changes" comment="3 homework">
+      <change afterPath="$PROJECT_DIR$/lesson3/part1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/part1/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -81,7 +81,10 @@
       <workItem from="1675366452550" duration="3886000" />
       <workItem from="1675413981673" duration="4372000" />
       <workItem from="1675430379267" duration="17337000" />
-      <workItem from="1675538587816" duration="2991000" />
+      <workItem from="1675538587816" duration="3224000" />
+      <workItem from="1675701178042" duration="9010000" />
+      <workItem from="1675717155669" duration="31000" />
+      <workItem from="1675848213936" duration="7275000" />
     </task>
     <task id="LOCAL-00001" summary="1 homework">
       <created>1674829695181</created>
@@ -132,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675457221164</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2 homework 2 part">
+      <created>1675541739988</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675541739988</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +163,7 @@
     <MESSAGE value="." />
     <MESSAGE value="1 homework" />
     <MESSAGE value="2 homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 homework" />
+    <MESSAGE value="2 homework 2 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 homework 2 part" />
   </component>
 </project>
